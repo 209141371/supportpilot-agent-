@@ -338,7 +338,7 @@ python evals/run_all_evals.py
 
 ## 当前边界与后续计划
 
-当前版本适合本地演示、作品集展示和受控环境验证。正式生产部署前还可以继续增强：
+正式生产部署前还可以继续增强：
 
 - SQLite 迁移到 PostgreSQL
 - 使用 Redis 管理多实例会话和任务状态
@@ -348,10 +348,6 @@ python evals/run_all_evals.py
 - 增加知识库版本回滚和检索质量反馈
 - 增加更大规模的真实客服回归数据集
 
-## 简历项目描述
 
-基于 Python、FastAPI、React 和 OpenAI Agents SDK 构建企业智能客服 Agent，融合 Tool Calling、RAG、确定性 Workflow 和 Human-in-the-loop 审批，实现订单查询、工单处理、企业政策问答及物流异常自动化；通过 SQLite 持久化会话、JWT/RBAC 控制访问、SSE 实现流式回复，并建立 RAG、Workflow、HITL、工具选择和意图路由五类评测体系。
 
-## License
 
-本项目用于个人学习、作品集展示和技术验证。
