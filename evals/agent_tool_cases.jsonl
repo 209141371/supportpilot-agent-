@@ -1,0 +1,4 @@
+{"query":"帮我查一下订单 A1002 现在到哪了","expected_tool":"get_order_status"}
+{"query":"退款多久到账？","expected_tool":"search_knowledge_base"}
+{"query":"帮我给 A1002 创建一个售后工单，问题类型是键盘故障，描述是部分按键失灵。","expected_tool":"create_ticket"}
+{"query":"把 T0006 的状态改成已解决","expected_tool":"update_ticket_status"}

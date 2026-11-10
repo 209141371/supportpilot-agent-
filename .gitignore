@@ -1,0 +1,19 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+frontend/node_modules/
+frontend/dist/
+~lock.*
+*.tmp
+page-*.jpg
+# Local SQLite database
+supportpilot.db
+
+# Local vector database
+data/chroma/
+
+# Local runtime logs
+data/logs/

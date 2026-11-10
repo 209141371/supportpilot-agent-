@@ -1,0 +1,4 @@
+{"case":"reject_create_ticket","action":"create_ticket","order_id":"A1002","issue_type":"HITL测试","description":"reject测试，不应真正创建工单","decision":"reject"}
+{"case":"approve_create_ticket","action":"create_ticket","order_id":"A1002","issue_type":"HITL测试","description":"approve测试，应创建工单","decision":"approve"}
+{"case":"reject_update_status","action":"update_ticket_status","ticket_id":"T0006","new_status":"处理中","decision":"reject"}
+{"case":"approve_update_status","action":"update_ticket_status","ticket_id":"T0006","new_status":"处理中","decision":"approve"}

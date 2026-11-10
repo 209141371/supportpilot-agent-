@@ -1,0 +1,8 @@
+{"query":"帮我处理 A1004 的物流异常","expected_route":"shipping_workflow","expected_order_id":"A1004"}
+{"query":"A1004 一直没发货，帮我处理一下","expected_route":"shipping_workflow","expected_order_id":"A1004"}
+{"query":"帮我处理A1004的物流超时","expected_route":"shipping_workflow","expected_order_id":"A1004"}
+{"query":"我的订单一直没发货，帮我处理一下","expected_route":"shipping_missing_order","expected_order_id":null}
+{"query":"退款多久到账？","expected_route":"agent","expected_order_id":null}
+{"query":"查询订单 A1002","expected_route":"agent","expected_order_id":"A1002"}
+{"query":"订单多久发货？","expected_route":"agent","expected_order_id":null}
+{"query":"把 T0006 的状态改成已解决","expected_route":"agent","expected_order_id":null}

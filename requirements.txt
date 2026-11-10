@@ -1,0 +1,11 @@
+openai-agents
+fastapi
+uvicorn
+PyJWT
+python-multipart
+python-dotenv
+pydantic
+pytest
+chromadb
+sentence-transformers
+onnxruntime

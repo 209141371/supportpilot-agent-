@@ -1,0 +1,5 @@
+{"query":"退款多久到账？","expected_source":"refund_policy.txt"}
+{"query":"签收8天还能无理由退货吗？","expected_source":"return_policy.txt"}
+{"query":"订单多久发货？","expected_source":"shipping_policy.txt"}
+{"query":"黑金会员有什么权益？","expected_source":"membership_policy.txt"}
+{"query":"你们公司创始人是谁？","expected_source":null}
