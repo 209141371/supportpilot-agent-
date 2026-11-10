@@ -229,8 +229,6 @@ AUTH_JWT_SECRET=your_long_random_secret
 AUTH_ACCESS_TOKEN_MINUTES=480
 ```
 
-不要将 `.env`、API Key 或 JWT 密钥提交到 GitHub。
-
 ### 3. 建立知识库索引
 
 ```powershell
